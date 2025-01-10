@@ -60,11 +60,11 @@ If you are Linux user, you probably know better than I do.
 
 ## Q&As
 
-- Q: Why?
+- Q: Why?  
   A: I use [Typora](https://typora.io/) for notes and documentations, and sometimes I need to insert images. And since I want my markdown files to be standalone, the pictures' URL must be in DataURL form. For images downloaded (files), of course I can just use those countless online tools out there, but if I'm copying images from the web or from Discord, I'm just too lazy to download and upload and download it again.
-- Q: Will it support converting files in the future?
+- Q: Will it support converting files in the future?  
   A: Maybe, if I found out I need to. But I doubt it as you (and I as will) can just use other tools (mentioned above).
-- Q: Will it support the counter-process in the future?
+- Q: Will it support the counter-process in the future?  
   A: Same as question#2.
 
 ## Easter Egg
